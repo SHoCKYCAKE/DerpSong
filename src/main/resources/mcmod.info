@@ -1,0 +1,22 @@
+[
+   {
+      "modid":"DerpSong",
+      "name":"Derp Song Mod",
+      "description":"This mod adds a derpy Record to Minecraft.",
+      "version":"${version}",
+	  "mcversion": "${mcversion}",
+      "url":"",
+      "updateUrl":"",
+      "authorList":[
+        "Mex"
+      ],
+      "credits":"By Mex",
+      "screenshots":[
+
+      ],
+      "parent":"",
+      "dependencies":[
+        "mod_MinecraftForge"
+      ]
+   }
+]
